@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "images": 1800,
+  "by_split": {
+    "train": 1440,
+    "val": 180,
+    "test": 180
+  },
+  "by_class": {
+    "crazing": 300,
+    "inclusion": 300,
+    "patches": 300,
+    "pitted_surface": 300,
+    "rolled-in_scale": 300,
+    "scratches": 300
+  }
+}

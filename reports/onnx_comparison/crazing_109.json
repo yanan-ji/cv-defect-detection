@@ -1,0 +1,73 @@
+{
+  "image": "data/neu_det/images/val/crazing_109.jpg",
+  "image_shape": [
+    200,
+    200,
+    3
+  ],
+  "input_shape": [
+    1,
+    3,
+    320,
+    320
+  ],
+  "input_range": [
+    0.22745098173618317,
+    0.8823529481887817
+  ],
+  "preprocess": "OpenCV BGR -> Ultralytics LetterBox 320x320 auto=False -> RGB CHW float32 /255",
+  "raw_shape": [
+    1,
+    10,
+    2100
+  ],
+  "raw_max_abs": 0.0010833740234375,
+  "raw_mean_abs": 1.93785108422162e-05,
+  "nms": {
+    "conf": 0.25,
+    "iou": 0.7,
+    "max_det": 300,
+    "agnostic": false
+  },
+  "decode": "Ultralytics non_max_suppression: xywh-to-xyxy, class confidence, NMS; scale_boxes to original pixels",
+  "pytorch_detections": [
+    {
+      "xyxy": [
+        81.0,
+        0.0,
+        200.0,
+        43.0
+      ],
+      "confidence": 0.26955848932266235,
+      "class_id": 0
+    }
+  ],
+  "onnx_detections": [
+    {
+      "xyxy": [
+        81.0,
+        0.0,
+        200.0,
+        43.0
+      ],
+      "confidence": 0.26955801248550415,
+      "class_id": 0
+    }
+  ],
+  "paired_differences": [
+    {
+      "same_class": true,
+      "max_box_abs_px": 0.0,
+      "confidence_abs": 4.76837158203125e-07
+    }
+  ],
+  "same_count": true,
+  "ort_available_providers": [
+    "CoreMLExecutionProvider",
+    "AzureExecutionProvider",
+    "CPUExecutionProvider"
+  ],
+  "comparison_provider": "CPUExecutionProvider",
+  "torch_device": "cpu",
+  "onnx_file": "experiments/yolo11n_320_conservative_aug/weights/best.onnx"
+}

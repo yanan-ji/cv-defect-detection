@@ -1,0 +1,7832 @@
+[
+  {
+    "image": "crazing_109.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          77.0,
+          1.0,
+          199.0,
+          42.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          39.0,
+          38.0,
+          198.0,
+          87.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          32.0,
+          88.0,
+          145.0,
+          131.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "001_crazing_109.jpg"
+  },
+  {
+    "image": "crazing_114.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          41.0,
+          139.0,
+          169.0,
+          188.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          5.0,
+          52.0,
+          46.0,
+          198.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          2.0,
+          16.0,
+          94.0,
+          91.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "002_crazing_114.jpg"
+  },
+  {
+    "image": "crazing_117.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          12.0,
+          39.0,
+          154.0,
+          144.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          66.0,
+          138.0,
+          169.0,
+          189.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "003_crazing_117.jpg"
+  },
+  {
+    "image": "crazing_119.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          72.0,
+          63.0,
+          193.0,
+          147.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          112.0,
+          136.0,
+          157.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          64.0,
+          14.0,
+          171.0,
+          58.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          5.0,
+          18.0,
+          137.0,
+          98.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.554,
+        "xyxy": [
+          0.0,
+          0.1,
+          62.6,
+          56.2
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "004_crazing_119.jpg"
+  },
+  {
+    "image": "crazing_121.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          72.0,
+          114.0,
+          173.0,
+          171.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          23.0,
+          21.0,
+          156.0,
+          72.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "005_crazing_121.jpg"
+  },
+  {
+    "image": "crazing_143.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          12.0,
+          104.0,
+          95.0,
+          186.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          9.0,
+          31.0,
+          137.0,
+          100.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.2525,
+        "xyxy": [
+          0.1,
+          106.4,
+          92.9,
+          174.4
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "006_crazing_143.jpg"
+  },
+  {
+    "image": "crazing_151.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          91.0,
+          21.0,
+          134.0,
+          106.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "007_crazing_151.jpg"
+  },
+  {
+    "image": "crazing_152.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          48.0,
+          98.0,
+          146.0,
+          135.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          2.0,
+          137.0,
+          135.0,
+          191.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          156.0,
+          136.0,
+          191.0,
+          168.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "008_crazing_152.jpg"
+  },
+  {
+    "image": "crazing_156.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          25.0,
+          92.0,
+          94.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          103.0,
+          24.0,
+          193.0,
+          113.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          43.0,
+          98.0,
+          132.0,
+          156.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.275,
+        "xyxy": [
+          0.0,
+          0.0,
+          69.0,
+          58.1
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "009_crazing_156.jpg"
+  },
+  {
+    "image": "crazing_166.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          35.0,
+          31.0,
+          181.0,
+          105.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          28.0,
+          145.0,
+          157.0,
+          189.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "010_crazing_166.jpg"
+  },
+  {
+    "image": "crazing_187.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          2.0,
+          27.0,
+          171.0,
+          138.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "011_crazing_187.jpg"
+  },
+  {
+    "image": "crazing_220.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          3.0,
+          117.0,
+          146.0,
+          194.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          78.0,
+          19.0,
+          178.0,
+          131.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.3081,
+        "xyxy": [
+          0.0,
+          137.0,
+          144.5,
+          199.8
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "012_crazing_220.jpg"
+  },
+  {
+    "image": "crazing_231.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          9.0,
+          98.0,
+          200.0,
+          187.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          85.0,
+          8.0,
+          200.0,
+          88.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          12.0,
+          137.0,
+          67.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.3246,
+        "xyxy": [
+          121.0,
+          58.5,
+          199.9,
+          161.4
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "013_crazing_231.jpg"
+  },
+  {
+    "image": "crazing_234.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          57.0,
+          5.0,
+          199.0,
+          73.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          8.0,
+          76.0,
+          200.0,
+          166.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "014_crazing_234.jpg"
+  },
+  {
+    "image": "crazing_266.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          3.0,
+          6.0,
+          193.0,
+          101.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          130.0,
+          138.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.3007,
+        "xyxy": [
+          0.2,
+          131.8,
+          89.8,
+          199.5
+        ]
+      },
+      {
+        "class": "crazing",
+        "confidence": 0.261,
+        "xyxy": [
+          0.0,
+          133.6,
+          135.7,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "015_crazing_266.jpg"
+  },
+  {
+    "image": "crazing_288.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          3.0,
+          95.0,
+          85.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          16.0,
+          126.0,
+          165.0,
+          188.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.4043,
+        "xyxy": [
+          0.0,
+          17.7,
+          101.6,
+          85.1
+        ]
+      },
+      {
+        "class": "crazing",
+        "confidence": 0.2501,
+        "xyxy": [
+          0.0,
+          18.2,
+          144.7,
+          85.4
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "016_crazing_288.jpg"
+  },
+  {
+    "image": "crazing_294.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          45.0,
+          1.0,
+          158.0,
+          86.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          82.0,
+          166.0,
+          200.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.2985,
+        "xyxy": [
+          1.6,
+          82.4,
+          190.7,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "017_crazing_294.jpg"
+  },
+  {
+    "image": "crazing_36.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          74.0,
+          93.0,
+          200.0,
+          171.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "018_crazing_36.jpg"
+  },
+  {
+    "image": "crazing_39.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          5.0,
+          95.0,
+          200.0,
+          191.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          74.0,
+          3.0,
+          200.0,
+          99.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.2531,
+        "xyxy": [
+          0.0,
+          90.4,
+          99.5,
+          165.7
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "019_crazing_39.jpg"
+  },
+  {
+    "image": "crazing_42.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          11.0,
+          15.0,
+          178.0,
+          85.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "020_crazing_42.jpg"
+  },
+  {
+    "image": "crazing_49.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          14.0,
+          42.0,
+          200.0,
+          126.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          136.0,
+          74.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.2595,
+        "xyxy": [
+          11.6,
+          60.1,
+          167.4,
+          124.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "021_crazing_49.jpg"
+  },
+  {
+    "image": "crazing_50.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          2.0,
+          52.0,
+          196.0,
+          137.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          5.0,
+          139.0,
+          200.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "022_crazing_50.jpg"
+  },
+  {
+    "image": "crazing_58.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          3.0,
+          134.0,
+          189.0,
+          198.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          34.0,
+          196.0,
+          126.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "023_crazing_58.jpg"
+  },
+  {
+    "image": "crazing_59.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          67.0,
+          72.0,
+          200.0,
+          136.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "024_crazing_59.jpg"
+  },
+  {
+    "image": "crazing_61.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          74.0,
+          103.0,
+          198.0,
+          166.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          28.0,
+          30.0,
+          179.0,
+          95.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "025_crazing_61.jpg"
+  },
+  {
+    "image": "crazing_80.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          112.0,
+          69.0,
+          198.0,
+          150.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.3141,
+        "xyxy": [
+          84.4,
+          69.5,
+          200.0,
+          117.1
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "026_crazing_80.jpg"
+  },
+  {
+    "image": "crazing_83.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          29.0,
+          87.0,
+          127.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          95.0,
+          1.0,
+          192.0,
+          198.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          2.0,
+          1.0,
+          197.0,
+          65.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "027_crazing_83.jpg"
+  },
+  {
+    "image": "crazing_96.jpg",
+    "ground_truth": [
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          9.0,
+          135.0,
+          106.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          1.0,
+          145.0,
+          88.0,
+          200.0
+        ]
+      },
+      {
+        "class": "crazing",
+        "xyxy": [
+          74.0,
+          119.0,
+          198.0,
+          170.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "crazing",
+        "confidence": 0.3423,
+        "xyxy": [
+          9.7,
+          7.5,
+          138.8,
+          103.7
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "028_crazing_96.jpg"
+  },
+  {
+    "image": "inclusion_102.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          28.0,
+          1.0,
+          73.0,
+          198.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          132.0,
+          70.0,
+          147.0,
+          130.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.733,
+        "xyxy": [
+          26.5,
+          0.0,
+          74.5,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6291,
+        "xyxy": [
+          129.7,
+          69.5,
+          147.3,
+          132.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.373,
+        "xyxy": [
+          62.8,
+          0.0,
+          84.0,
+          53.2
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "029_inclusion_102.jpg"
+  },
+  {
+    "image": "inclusion_114.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          1.0,
+          1.0,
+          29.0,
+          132.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          49.0,
+          77.0,
+          80.0,
+          198.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          90.0,
+          79.0,
+          107.0,
+          120.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          90.0,
+          114.0,
+          117.0,
+          180.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          139.0,
+          115.0,
+          160.0,
+          192.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          85.0,
+          1.0,
+          102.0,
+          31.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.8979,
+        "xyxy": [
+          47.8,
+          75.6,
+          81.0,
+          199.2
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6595,
+        "xyxy": [
+          140.4,
+          118.2,
+          160.9,
+          194.1
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6502,
+        "xyxy": [
+          87.3,
+          78.4,
+          116.8,
+          179.5
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5965,
+        "xyxy": [
+          0.0,
+          0.0,
+          26.6,
+          193.2
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5765,
+        "xyxy": [
+          83.3,
+          0.0,
+          103.9,
+          29.4
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4581,
+        "xyxy": [
+          142.7,
+          133.5,
+          160.7,
+          194.5
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4389,
+        "xyxy": [
+          0.1,
+          0.8,
+          27.5,
+          134.3
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.2656,
+        "xyxy": [
+          89.6,
+          77.6,
+          108.7,
+          126.4
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "030_inclusion_114.jpg"
+  },
+  {
+    "image": "inclusion_115.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          16.0,
+          59.0,
+          37.0,
+          113.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          45.0,
+          86.0,
+          65.0,
+          195.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          41.0,
+          1.0,
+          82.0,
+          137.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          105.0,
+          74.0,
+          138.0,
+          198.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          144.0,
+          120.0,
+          172.0,
+          181.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          145.0,
+          1.0,
+          159.0,
+          30.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          148.0,
+          80.0,
+          163.0,
+          124.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.8759,
+        "xyxy": [
+          105.0,
+          76.6,
+          139.2,
+          199.2
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.7967,
+        "xyxy": [
+          144.3,
+          78.8,
+          173.9,
+          181.6
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.7882,
+        "xyxy": [
+          41.8,
+          0.0,
+          80.9,
+          199.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6178,
+        "xyxy": [
+          140.8,
+          0.0,
+          161.4,
+          29.7
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.439,
+        "xyxy": [
+          16.8,
+          58.8,
+          38.2,
+          111.7
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3028,
+        "xyxy": [
+          139.4,
+          0.0,
+          160.6,
+          63.2
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "031_inclusion_115.jpg"
+  },
+  {
+    "image": "inclusion_129.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          163.0,
+          108.0,
+          190.0,
+          160.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          23.0,
+          143.0,
+          41.0,
+          199.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          44.0,
+          1.0,
+          92.0,
+          118.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          80.0,
+          96.0,
+          99.0,
+          128.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.8783,
+        "xyxy": [
+          43.5,
+          4.6,
+          78.0,
+          121.1
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.8302,
+        "xyxy": [
+          168.2,
+          103.5,
+          191.4,
+          160.5
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.7217,
+        "xyxy": [
+          22.3,
+          143.8,
+          40.3,
+          199.6
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5177,
+        "xyxy": [
+          71.0,
+          0.0,
+          90.3,
+          25.4
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "032_inclusion_129.jpg"
+  },
+  {
+    "image": "inclusion_135.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          41.0,
+          1.0,
+          74.0,
+          178.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          60.0,
+          6.0,
+          98.0,
+          198.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.5546,
+        "xyxy": [
+          43.1,
+          0.0,
+          69.6,
+          130.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5359,
+        "xyxy": [
+          41.7,
+          0.9,
+          73.1,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "033_inclusion_135.jpg"
+  },
+  {
+    "image": "inclusion_155.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          86.0,
+          8.0,
+          118.0,
+          78.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          125.0,
+          10.0,
+          154.0,
+          122.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          132.0,
+          113.0,
+          167.0,
+          198.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.7768,
+        "xyxy": [
+          86.6,
+          1.3,
+          123.3,
+          78.1
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.587,
+        "xyxy": [
+          127.4,
+          110.9,
+          168.8,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5493,
+        "xyxy": [
+          128.7,
+          6.3,
+          167.3,
+          199.8
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4944,
+        "xyxy": [
+          130.3,
+          11.4,
+          159.2,
+          118.7
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "034_inclusion_155.jpg"
+  },
+  {
+    "image": "inclusion_16.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          119.0,
+          1.0,
+          146.0,
+          194.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          168.0,
+          1.0,
+          194.0,
+          120.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          173.0,
+          116.0,
+          198.0,
+          198.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.8098,
+        "xyxy": [
+          162.3,
+          0.0,
+          198.7,
+          124.4
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.705,
+        "xyxy": [
+          118.8,
+          18.0,
+          147.4,
+          195.6
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5742,
+        "xyxy": [
+          165.3,
+          0.0,
+          199.9,
+          199.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "035_inclusion_16.jpg"
+  },
+  {
+    "image": "inclusion_164.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          67.0,
+          1.0,
+          111.0,
+          74.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          136.0,
+          1.0,
+          198.0,
+          198.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          33.0,
+          104.0,
+          84.0,
+          198.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          81.0,
+          83.0,
+          99.0,
+          132.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          93.0,
+          142.0,
+          109.0,
+          180.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.8947,
+        "xyxy": [
+          140.2,
+          0.0,
+          200.0,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.7019,
+        "xyxy": [
+          65.5,
+          0.0,
+          114.3,
+          76.8
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4906,
+        "xyxy": [
+          78.8,
+          82.1,
+          99.9,
+          134.8
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "036_inclusion_164.jpg"
+  },
+  {
+    "image": "inclusion_18.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          156.0,
+          111.0,
+          181.0,
+          198.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          117.0,
+          1.0,
+          143.0,
+          137.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          8.0,
+          1.0,
+          32.0,
+          161.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          68.0,
+          155.0,
+          83.0,
+          199.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          72.0,
+          50.0,
+          87.0,
+          72.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          148.0,
+          16.0,
+          162.0,
+          56.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          28.0,
+          138.0,
+          51.0,
+          186.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          71.0,
+          118.0,
+          83.0,
+          144.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          69.0,
+          86.0,
+          90.0,
+          113.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.7384,
+        "xyxy": [
+          156.9,
+          109.7,
+          181.6,
+          177.6
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6948,
+        "xyxy": [
+          146.1,
+          19.2,
+          162.5,
+          55.7
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6267,
+        "xyxy": [
+          1.5,
+          0.0,
+          39.4,
+          100.6
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6244,
+        "xyxy": [
+          115.8,
+          0.0,
+          148.1,
+          148.7
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5972,
+        "xyxy": [
+          3.9,
+          0.0,
+          40.2,
+          183.6
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4943,
+        "xyxy": [
+          67.3,
+          154.2,
+          85.0,
+          199.7
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4081,
+        "xyxy": [
+          154.9,
+          170.4,
+          182.6,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3262,
+        "xyxy": [
+          9.5,
+          0.0,
+          48.1,
+          182.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3128,
+        "xyxy": [
+          67.4,
+          86.4,
+          92.2,
+          146.2
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "037_inclusion_18.jpg"
+  },
+  {
+    "image": "inclusion_193.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          121.0,
+          20.0,
+          145.0,
+          131.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          161.0,
+          34.0,
+          190.0,
+          151.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          147.0,
+          1.0,
+          164.0,
+          30.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.8201,
+        "xyxy": [
+          158.3,
+          31.4,
+          192.3,
+          156.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6507,
+        "xyxy": [
+          122.9,
+          16.3,
+          150.6,
+          132.4
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5999,
+        "xyxy": [
+          143.6,
+          0.0,
+          166.8,
+          34.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3588,
+        "xyxy": [
+          185.1,
+          0.1,
+          200.0,
+          29.2
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "038_inclusion_193.jpg"
+  },
+  {
+    "image": "inclusion_215.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          77.0,
+          1.0,
+          126.0,
+          199.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          59.0,
+          136.0,
+          83.0,
+          199.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          61.0,
+          13.0,
+          82.0,
+          63.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.7892,
+        "xyxy": [
+          77.7,
+          0.0,
+          121.7,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6255,
+        "xyxy": [
+          65.0,
+          18.8,
+          80.0,
+          59.7
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "039_inclusion_215.jpg"
+  },
+  {
+    "image": "inclusion_219.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          110.0,
+          93.0,
+          133.0,
+          179.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          87.0,
+          52.0,
+          108.0,
+          91.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.8386,
+        "xyxy": [
+          109.2,
+          96.6,
+          131.4,
+          178.1
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3508,
+        "xyxy": [
+          88.0,
+          0.0,
+          108.8,
+          18.8
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.2852,
+        "xyxy": [
+          89.8,
+          53.5,
+          108.3,
+          91.3
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "040_inclusion_219.jpg"
+  },
+  {
+    "image": "inclusion_222.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          122.0,
+          30.0,
+          149.0,
+          166.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          27.0,
+          177.0,
+          49.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.7257,
+        "xyxy": [
+          121.3,
+          27.9,
+          145.0,
+          159.3
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6859,
+        "xyxy": [
+          27.0,
+          175.8,
+          45.5,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.2904,
+        "xyxy": [
+          34.4,
+          0.1,
+          63.2,
+          34.2
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "041_inclusion_222.jpg"
+  },
+  {
+    "image": "inclusion_237.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          131.0,
+          146.0,
+          165.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.7019,
+        "xyxy": [
+          130.9,
+          147.7,
+          164.7,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.412,
+        "xyxy": [
+          21.6,
+          72.3,
+          50.5,
+          128.1
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3207,
+        "xyxy": [
+          119.5,
+          93.1,
+          135.7,
+          133.4
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "042_inclusion_237.jpg"
+  },
+  {
+    "image": "inclusion_263.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          81.0,
+          1.0,
+          106.0,
+          158.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          80.0,
+          145.0,
+          98.0,
+          198.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.5419,
+        "xyxy": [
+          83.0,
+          7.3,
+          109.3,
+          160.5
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3507,
+        "xyxy": [
+          79.8,
+          2.0,
+          107.8,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3241,
+        "xyxy": [
+          80.7,
+          150.2,
+          100.8,
+          199.4
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "043_inclusion_263.jpg"
+  },
+  {
+    "image": "inclusion_28.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          35.0,
+          1.0,
+          69.0,
+          198.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          87.0,
+          13.0,
+          112.0,
+          75.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          105.0,
+          54.0,
+          129.0,
+          95.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          86.0,
+          107.0,
+          107.0,
+          157.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          94.0,
+          159.0,
+          117.0,
+          199.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          147.0,
+          71.0,
+          166.0,
+          147.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          180.0,
+          101.0,
+          196.0,
+          144.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          150.0,
+          30.0,
+          168.0,
+          62.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          143.0,
+          147.0,
+          161.0,
+          193.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.7662,
+        "xyxy": [
+          40.9,
+          0.1,
+          70.4,
+          87.8
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6055,
+        "xyxy": [
+          85.8,
+          158.8,
+          118.5,
+          199.2
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5462,
+        "xyxy": [
+          145.5,
+          148.0,
+          163.3,
+          192.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4668,
+        "xyxy": [
+          35.9,
+          0.0,
+          65.9,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4473,
+        "xyxy": [
+          92.5,
+          2.6,
+          128.4,
+          99.5
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4431,
+        "xyxy": [
+          145.4,
+          68.5,
+          166.4,
+          145.7
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3889,
+        "xyxy": [
+          148.9,
+          0.6,
+          173.0,
+          64.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3198,
+        "xyxy": [
+          181.3,
+          105.6,
+          197.6,
+          143.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "044_inclusion_28.jpg"
+  },
+  {
+    "image": "inclusion_283.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          33.0,
+          9.0,
+          62.0,
+          190.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.3883,
+        "xyxy": [
+          35.8,
+          4.7,
+          57.0,
+          193.8
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3172,
+        "xyxy": [
+          0.3,
+          4.0,
+          54.5,
+          196.4
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "045_inclusion_283.jpg"
+  },
+  {
+    "image": "inclusion_291.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          84.0,
+          29.0,
+          108.0,
+          163.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          168.0,
+          2.0,
+          199.0,
+          164.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          83.0,
+          4.0,
+          96.0,
+          46.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          1.0,
+          6.0,
+          31.0,
+          166.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.8453,
+        "xyxy": [
+          168.1,
+          0.0,
+          200.0,
+          162.4
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.722,
+        "xyxy": [
+          0.0,
+          0.0,
+          31.3,
+          177.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5087,
+        "xyxy": [
+          81.9,
+          0.7,
+          110.7,
+          160.5
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.403,
+        "xyxy": [
+          88.8,
+          93.3,
+          109.3,
+          160.4
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3638,
+        "xyxy": [
+          82.4,
+          0.8,
+          110.3,
+          105.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.2574,
+        "xyxy": [
+          81.7,
+          0.5,
+          102.1,
+          51.1
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "046_inclusion_291.jpg"
+  },
+  {
+    "image": "inclusion_65.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          30.0,
+          1.0,
+          57.0,
+          82.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          147.0,
+          20.0,
+          191.0,
+          198.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          27.0,
+          108.0,
+          48.0,
+          145.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.7816,
+        "xyxy": [
+          143.0,
+          20.4,
+          183.5,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.6951,
+        "xyxy": [
+          30.2,
+          1.2,
+          54.3,
+          81.7
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3791,
+        "xyxy": [
+          25.6,
+          102.7,
+          49.1,
+          171.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3492,
+        "xyxy": [
+          26.0,
+          102.0,
+          45.3,
+          161.9
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "047_inclusion_65.jpg"
+  },
+  {
+    "image": "inclusion_86.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          35.0,
+          1.0,
+          60.0,
+          85.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          16.0,
+          43.0,
+          37.0,
+          95.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          7.0,
+          110.0,
+          28.0,
+          175.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          35.0,
+          142.0,
+          72.0,
+          192.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          110.0,
+          21.0,
+          144.0,
+          110.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.865,
+        "xyxy": [
+          109.8,
+          17.3,
+          142.0,
+          110.6
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.8244,
+        "xyxy": [
+          9.8,
+          110.6,
+          29.9,
+          175.1
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.7909,
+        "xyxy": [
+          17.0,
+          42.1,
+          38.2,
+          98.3
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5878,
+        "xyxy": [
+          35.1,
+          141.0,
+          70.6,
+          197.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5184,
+        "xyxy": [
+          33.9,
+          0.0,
+          56.3,
+          80.2
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3376,
+        "xyxy": [
+          22.5,
+          0.2,
+          57.7,
+          91.1
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "048_inclusion_86.jpg"
+  },
+  {
+    "image": "inclusion_94.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          8.0,
+          2.0,
+          38.0,
+          93.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          69.0,
+          9.0,
+          99.0,
+          88.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          18.0,
+          110.0,
+          43.0,
+          198.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          115.0,
+          119.0,
+          146.0,
+          184.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          136.0,
+          43.0,
+          159.0,
+          101.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          105.0,
+          30.0,
+          128.0,
+          55.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.8582,
+        "xyxy": [
+          73.5,
+          13.0,
+          96.0,
+          87.2
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.8519,
+        "xyxy": [
+          115.1,
+          117.0,
+          145.2,
+          179.7
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.8348,
+        "xyxy": [
+          11.5,
+          1.6,
+          35.8,
+          93.6
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.7446,
+        "xyxy": [
+          15.8,
+          109.8,
+          41.3,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5111,
+        "xyxy": [
+          140.7,
+          48.5,
+          156.8,
+          91.9
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "049_inclusion_94.jpg"
+  },
+  {
+    "image": "inclusion_98.jpg",
+    "ground_truth": [
+      {
+        "class": "inclusion",
+        "xyxy": [
+          38.0,
+          1.0,
+          109.0,
+          198.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "inclusion",
+        "confidence": 0.8945,
+        "xyxy": [
+          39.8,
+          0.0,
+          108.9,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.2557,
+        "xyxy": [
+          34.2,
+          0.0,
+          59.8,
+          64.2
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "050_inclusion_98.jpg"
+  },
+  {
+    "image": "patches_127.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          1.0,
+          170.0,
+          44.0,
+          199.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          1.0,
+          1.0,
+          160.0,
+          129.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          148.0,
+          122.0,
+          188.0,
+          197.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          144.0,
+          1.0,
+          192.0,
+          130.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.7934,
+        "xyxy": [
+          147.0,
+          120.0,
+          187.3,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.7214,
+        "xyxy": [
+          0.0,
+          171.0,
+          54.2,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.6738,
+        "xyxy": [
+          98.8,
+          0.2,
+          193.0,
+          121.1
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.622,
+        "xyxy": [
+          7.8,
+          0.1,
+          114.7,
+          131.1
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.2633,
+        "xyxy": [
+          3.2,
+          0.0,
+          151.1,
+          122.3
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.2559,
+        "xyxy": [
+          62.8,
+          0.0,
+          190.1,
+          121.1
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "051_patches_127.jpg"
+  },
+  {
+    "image": "patches_128.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          1.0,
+          42.0,
+          52.0,
+          184.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          148.0,
+          61.0,
+          190.0,
+          109.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          146.0,
+          1.0,
+          190.0,
+          59.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          169.0,
+          179.0,
+          200.0,
+          199.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          1.0,
+          1.0,
+          28.0,
+          16.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.8748,
+        "xyxy": [
+          0.0,
+          42.2,
+          52.0,
+          185.3
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.6546,
+        "xyxy": [
+          147.7,
+          0.0,
+          188.1,
+          64.2
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.5819,
+        "xyxy": [
+          154.5,
+          173.6,
+          200.0,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.5608,
+        "xyxy": [
+          146.8,
+          0.0,
+          191.2,
+          107.8
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.4838,
+        "xyxy": [
+          149.2,
+          57.5,
+          190.9,
+          109.1
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.3611,
+        "xyxy": [
+          0.0,
+          0.0,
+          29.0,
+          14.5
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "052_patches_128.jpg"
+  },
+  {
+    "image": "patches_168.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          34.0,
+          75.0,
+          78.0,
+          177.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          121.0,
+          90.0,
+          178.0,
+          156.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          133.0,
+          1.0,
+          200.0,
+          62.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          1.0,
+          108.0,
+          30.0,
+          149.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          79.0,
+          54.0,
+          104.0,
+          74.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          149.0,
+          138.0,
+          196.0,
+          169.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          161.0,
+          78.0,
+          200.0,
+          112.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.8556,
+        "xyxy": [
+          34.2,
+          72.6,
+          76.6,
+          179.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.8445,
+        "xyxy": [
+          129.2,
+          84.7,
+          176.8,
+          158.2
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.4601,
+        "xyxy": [
+          144.8,
+          15.9,
+          200.0,
+          103.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4374,
+        "xyxy": [
+          80.4,
+          56.6,
+          102.6,
+          74.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.356,
+        "xyxy": [
+          136.6,
+          18.2,
+          199.5,
+          86.1
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.2788,
+        "xyxy": [
+          91.2,
+          103.4,
+          118.3,
+          133.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.2657,
+        "xyxy": [
+          1.3,
+          107.3,
+          30.8,
+          142.8
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.2591,
+        "xyxy": [
+          6.0,
+          107.2,
+          30.5,
+          133.1
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "053_patches_168.jpg"
+  },
+  {
+    "image": "patches_17.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          22.0,
+          13.0,
+          69.0,
+          198.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          113.0,
+          1.0,
+          182.0,
+          128.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          106.0,
+          134.0,
+          183.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.9042,
+        "xyxy": [
+          111.2,
+          0.0,
+          181.6,
+          130.8
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.8659,
+        "xyxy": [
+          106.0,
+          131.2,
+          180.6,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.435,
+        "xyxy": [
+          29.8,
+          122.0,
+          73.4,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.348,
+        "xyxy": [
+          25.2,
+          54.4,
+          73.0,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "054_patches_17.jpg"
+  },
+  {
+    "image": "patches_180.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          1.0,
+          52.0,
+          34.0,
+          118.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          62.0,
+          13.0,
+          109.0,
+          131.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          112.0,
+          1.0,
+          154.0,
+          48.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.7194,
+        "xyxy": [
+          108.7,
+          0.2,
+          149.2,
+          49.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.6549,
+        "xyxy": [
+          59.0,
+          3.3,
+          120.8,
+          134.7
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.5717,
+        "xyxy": [
+          60.1,
+          130.9,
+          145.1,
+          199.7
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.5196,
+        "xyxy": [
+          0.0,
+          49.4,
+          28.4,
+          112.7
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.3629,
+        "xyxy": [
+          33.6,
+          1.2,
+          118.3,
+          125.6
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "055_patches_180.jpg"
+  },
+  {
+    "image": "patches_194.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          72.0,
+          1.0,
+          144.0,
+          199.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          146.0,
+          1.0,
+          200.0,
+          83.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.5225,
+        "xyxy": [
+          86.3,
+          0.2,
+          200.0,
+          85.9
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.4509,
+        "xyxy": [
+          83.0,
+          0.0,
+          165.0,
+          199.6
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.4263,
+        "xyxy": [
+          78.8,
+          0.0,
+          141.8,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.3042,
+        "xyxy": [
+          0.0,
+          128.1,
+          20.0,
+          199.9
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "056_patches_194.jpg"
+  },
+  {
+    "image": "patches_196.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          51.0,
+          1.0,
+          107.0,
+          53.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          50.0,
+          55.0,
+          124.0,
+          200.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.7597,
+        "xyxy": [
+          52.0,
+          55.1,
+          115.2,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.6752,
+        "xyxy": [
+          58.6,
+          151.1,
+          123.2,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.6558,
+        "xyxy": [
+          52.3,
+          54.9,
+          111.6,
+          159.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.6459,
+        "xyxy": [
+          48.3,
+          0.0,
+          106.1,
+          48.4
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "057_patches_196.jpg"
+  },
+  {
+    "image": "patches_198.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          21.0,
+          1.0,
+          99.0,
+          198.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          158.0,
+          68.0,
+          200.0,
+          158.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          158.0,
+          68.0,
+          200.0,
+          158.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          109.0,
+          64.0,
+          154.0,
+          140.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          1.0,
+          21.0,
+          21.0,
+          50.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.8836,
+        "xyxy": [
+          26.7,
+          0.4,
+          100.4,
+          199.9
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.7215,
+        "xyxy": [
+          169.9,
+          68.3,
+          200.0,
+          165.9
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.674,
+        "xyxy": [
+          116.9,
+          71.8,
+          153.1,
+          132.6
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5298,
+        "xyxy": [
+          0.0,
+          20.1,
+          21.9,
+          50.3
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "058_patches_198.jpg"
+  },
+  {
+    "image": "patches_222.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          99.0,
+          1.0,
+          181.0,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          61.0,
+          125.0,
+          110.0,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          60.0,
+          91.0,
+          96.0,
+          129.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.6311,
+        "xyxy": [
+          63.5,
+          64.6,
+          184.4,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.6064,
+        "xyxy": [
+          65.2,
+          1.9,
+          182.7,
+          199.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.359,
+        "xyxy": [
+          61.6,
+          95.9,
+          91.6,
+          128.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.2823,
+        "xyxy": [
+          96.4,
+          0.0,
+          177.8,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.258,
+        "xyxy": [
+          93.7,
+          0.1,
+          177.4,
+          91.4
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "059_patches_222.jpg"
+  },
+  {
+    "image": "patches_242.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          7.0,
+          37.0,
+          85.0,
+          157.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          103.0,
+          92.0,
+          165.0,
+          135.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          147.0,
+          1.0,
+          194.0,
+          55.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.8335,
+        "xyxy": [
+          145.1,
+          0.8,
+          198.2,
+          58.1
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.8156,
+        "xyxy": [
+          9.1,
+          49.8,
+          81.3,
+          158.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.7324,
+        "xyxy": [
+          103.3,
+          91.3,
+          174.4,
+          133.9
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.2501,
+        "xyxy": [
+          17.3,
+          172.1,
+          60.0,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "060_patches_242.jpg"
+  },
+  {
+    "image": "patches_245.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          5.0,
+          37.0,
+          44.0,
+          71.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          3.0,
+          1.0,
+          60.0,
+          17.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          1.0,
+          98.0,
+          84.0,
+          195.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          115.0,
+          2.0,
+          178.0,
+          97.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          131.0,
+          122.0,
+          182.0,
+          163.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          144.0,
+          166.0,
+          188.0,
+          199.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          176.0,
+          3.0,
+          199.0,
+          41.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.8185,
+        "xyxy": [
+          0.0,
+          97.1,
+          81.8,
+          180.3
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.7636,
+        "xyxy": [
+          4.6,
+          37.4,
+          44.7,
+          79.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.6725,
+        "xyxy": [
+          130.8,
+          120.0,
+          180.2,
+          164.2
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.636,
+        "xyxy": [
+          1.1,
+          0.0,
+          59.8,
+          14.8
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.5576,
+        "xyxy": [
+          115.5,
+          4.9,
+          171.7,
+          95.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.5419,
+        "xyxy": [
+          130.2,
+          120.6,
+          181.6,
+          194.8
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.3658,
+        "xyxy": [
+          0.0,
+          161.0,
+          28.4,
+          199.9
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "061_patches_245.jpg"
+  },
+  {
+    "image": "patches_283.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          51.0,
+          4.0,
+          104.0,
+          73.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          28.0,
+          127.0,
+          110.0,
+          191.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          76.0,
+          109.0,
+          126.0,
+          162.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          151.0,
+          136.0,
+          177.0,
+          162.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.9056,
+        "xyxy": [
+          52.7,
+          2.3,
+          99.5,
+          72.1
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.7317,
+        "xyxy": [
+          27.4,
+          124.6,
+          79.5,
+          171.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.558,
+        "xyxy": [
+          78.1,
+          109.9,
+          119.1,
+          162.9
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.5007,
+        "xyxy": [
+          150.5,
+          135.7,
+          174.6,
+          159.1
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.4109,
+        "xyxy": [
+          48.8,
+          109.3,
+          118.9,
+          164.7
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "062_patches_283.jpg"
+  },
+  {
+    "image": "patches_294.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          3.0,
+          1.0,
+          67.0,
+          191.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          131.0,
+          67.0,
+          196.0,
+          198.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.8603,
+        "xyxy": [
+          125.4,
+          69.7,
+          199.9,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.8454,
+        "xyxy": [
+          0.0,
+          0.0,
+          68.6,
+          190.9
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.2814,
+        "xyxy": [
+          129.4,
+          0.0,
+          162.4,
+          16.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.263,
+        "xyxy": [
+          0.0,
+          62.5,
+          64.4,
+          189.2
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "063_patches_294.jpg"
+  },
+  {
+    "image": "patches_56.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          31.0,
+          67.0,
+          105.0,
+          96.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          34.0,
+          101.0,
+          66.0,
+          129.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          117.0,
+          99.0,
+          142.0,
+          124.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          160.0,
+          82.0,
+          200.0,
+          144.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.9035,
+        "xyxy": [
+          163.7,
+          81.4,
+          200.0,
+          147.2
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.634,
+        "xyxy": [
+          116.7,
+          97.9,
+          142.7,
+          125.1
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.4829,
+        "xyxy": [
+          35.8,
+          66.2,
+          100.5,
+          105.6
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.4107,
+        "xyxy": [
+          35.7,
+          65.8,
+          100.7,
+          130.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.3906,
+        "xyxy": [
+          36.4,
+          98.2,
+          66.0,
+          130.6
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "064_patches_56.jpg"
+  },
+  {
+    "image": "patches_74.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          3.0,
+          117.0,
+          43.0,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          122.0,
+          2.0,
+          199.0,
+          158.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.8237,
+        "xyxy": [
+          0.8,
+          114.5,
+          38.3,
+          177.1
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.5644,
+        "xyxy": [
+          130.0,
+          2.9,
+          200.0,
+          154.9
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.5173,
+        "xyxy": [
+          145.6,
+          103.4,
+          176.8,
+          125.4
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.5043,
+        "xyxy": [
+          130.6,
+          2.3,
+          200.0,
+          81.7
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.397,
+        "xyxy": [
+          5.9,
+          184.1,
+          50.8,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.3493,
+        "xyxy": [
+          154.8,
+          3.5,
+          199.9,
+          157.6
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.3412,
+        "xyxy": [
+          171.1,
+          3.3,
+          200.0,
+          157.2
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "065_patches_74.jpg"
+  },
+  {
+    "image": "patches_77.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          164.0,
+          74.0,
+          199.0,
+          110.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          136.0,
+          153.0,
+          197.0,
+          199.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          23.0,
+          1.0,
+          52.0,
+          32.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.8103,
+        "xyxy": [
+          165.6,
+          75.3,
+          199.1,
+          108.2
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.7888,
+        "xyxy": [
+          136.9,
+          154.0,
+          198.2,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.7187,
+        "xyxy": [
+          15.8,
+          0.0,
+          54.9,
+          39.2
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.2816,
+        "xyxy": [
+          136.7,
+          154.0,
+          180.7,
+          199.2
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "066_patches_77.jpg"
+  },
+  {
+    "image": "patches_98.jpg",
+    "ground_truth": [
+      {
+        "class": "patches",
+        "xyxy": [
+          15.0,
+          68.0,
+          106.0,
+          185.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          100.0,
+          94.0,
+          172.0,
+          191.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.8344,
+        "xyxy": [
+          15.0,
+          69.0,
+          112.0,
+          182.7
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.8329,
+        "xyxy": [
+          105.1,
+          91.7,
+          170.2,
+          193.7
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.3159,
+        "xyxy": [
+          130.7,
+          67.1,
+          172.7,
+          101.1
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "067_patches_98.jpg"
+  },
+  {
+    "image": "pitted_surface_125.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          136.0,
+          2.0,
+          198.0,
+          197.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          4.0,
+          2.0,
+          130.0,
+          111.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.4875,
+        "xyxy": [
+          0.0,
+          0.0,
+          200.0,
+          198.9
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "068_pitted_surface_125.jpg"
+  },
+  {
+    "image": "pitted_surface_133.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          31.0,
+          1.0,
+          165.0,
+          151.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.5119,
+        "xyxy": [
+          1.1,
+          0.2,
+          162.8,
+          199.9
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "confidence": 0.2752,
+        "xyxy": [
+          0.0,
+          0.0,
+          111.0,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "069_pitted_surface_133.jpg"
+  },
+  {
+    "image": "pitted_surface_179.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          5.0,
+          7.0,
+          197.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.7722,
+        "xyxy": [
+          0.1,
+          0.0,
+          198.6,
+          200.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "confidence": 0.3393,
+        "xyxy": [
+          0.2,
+          0.0,
+          135.7,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "070_pitted_surface_179.jpg"
+  },
+  {
+    "image": "pitted_surface_229.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          1.0,
+          4.0,
+          117.0,
+          189.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          63.0,
+          20.0,
+          199.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.5995,
+        "xyxy": [
+          0.4,
+          0.2,
+          199.5,
+          199.7
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "071_pitted_surface_229.jpg"
+  },
+  {
+    "image": "pitted_surface_231.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          50.0,
+          5.0,
+          184.0,
+          171.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          1.0,
+          1.0,
+          50.0,
+          200.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.5778,
+        "xyxy": [
+          1.9,
+          0.1,
+          190.2,
+          200.0
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.2872,
+        "xyxy": [
+          0.0,
+          179.0,
+          35.5,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "072_pitted_surface_231.jpg"
+  },
+  {
+    "image": "pitted_surface_233.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          162.0,
+          76.0,
+          198.0,
+          147.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          67.0,
+          7.0,
+          142.0,
+          183.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.3636,
+        "xyxy": [
+          3.1,
+          0.0,
+          155.8,
+          110.5
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "confidence": 0.2838,
+        "xyxy": [
+          2.5,
+          0.1,
+          148.6,
+          194.7
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "confidence": 0.2529,
+        "xyxy": [
+          153.1,
+          0.0,
+          199.9,
+          151.5
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "073_pitted_surface_233.jpg"
+  },
+  {
+    "image": "pitted_surface_234.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          21.0,
+          6.0,
+          95.0,
+          147.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "074_pitted_surface_234.jpg"
+  },
+  {
+    "image": "pitted_surface_271.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          5.0,
+          7.0,
+          124.0,
+          185.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          101.0,
+          1.0,
+          184.0,
+          194.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.7177,
+        "xyxy": [
+          0.4,
+          0.2,
+          199.8,
+          199.5
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "075_pitted_surface_271.jpg"
+  },
+  {
+    "image": "pitted_surface_276.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          1.0,
+          1.0,
+          120.0,
+          193.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          95.0,
+          124.0,
+          171.0,
+          199.0
+        ]
+      },
+      {
+        "class": "patches",
+        "xyxy": [
+          118.0,
+          1.0,
+          183.0,
+          74.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "patches",
+        "confidence": 0.7941,
+        "xyxy": [
+          97.2,
+          123.9,
+          200.0,
+          200.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "confidence": 0.6085,
+        "xyxy": [
+          0.0,
+          0.0,
+          104.6,
+          199.9
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.4683,
+        "xyxy": [
+          120.3,
+          0.1,
+          199.4,
+          75.5
+        ]
+      },
+      {
+        "class": "patches",
+        "confidence": 0.3822,
+        "xyxy": [
+          95.7,
+          123.6,
+          169.9,
+          199.9
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "076_pitted_surface_276.jpg"
+  },
+  {
+    "image": "pitted_surface_282.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          9.0,
+          11.0,
+          103.0,
+          167.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          71.0,
+          18.0,
+          192.0,
+          189.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.3967,
+        "xyxy": [
+          2.7,
+          1.2,
+          199.4,
+          199.9
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "confidence": 0.3119,
+        "xyxy": [
+          73.6,
+          1.5,
+          199.8,
+          199.7
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "077_pitted_surface_282.jpg"
+  },
+  {
+    "image": "pitted_surface_299.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          35.0,
+          14.0,
+          112.0,
+          176.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          116.0,
+          21.0,
+          199.0,
+          200.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          2.0,
+          12.0,
+          38.0,
+          178.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.5565,
+        "xyxy": [
+          1.3,
+          0.0,
+          125.9,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "078_pitted_surface_299.jpg"
+  },
+  {
+    "image": "pitted_surface_35.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          89.0,
+          1.0,
+          200.0,
+          186.0
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          1.0,
+          1.0,
+          118.0,
+          197.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.7421,
+        "xyxy": [
+          0.0,
+          0.2,
+          199.7,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "079_pitted_surface_35.jpg"
+  },
+  {
+    "image": "pitted_surface_65.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          5.0,
+          1.0,
+          199.0,
+          195.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.7475,
+        "xyxy": [
+          0.3,
+          0.0,
+          200.0,
+          199.6
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "confidence": 0.5409,
+        "xyxy": [
+          0.0,
+          0.0,
+          200.0,
+          128.7
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "080_pitted_surface_65.jpg"
+  },
+  {
+    "image": "pitted_surface_92.jpg",
+    "ground_truth": [
+      {
+        "class": "pitted_surface",
+        "xyxy": [
+          1.0,
+          1.0,
+          145.0,
+          191.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "pitted_surface",
+        "confidence": 0.586,
+        "xyxy": [
+          0.6,
+          0.0,
+          121.1,
+          185.6
+        ]
+      },
+      {
+        "class": "pitted_surface",
+        "confidence": 0.2812,
+        "xyxy": [
+          6.8,
+          0.0,
+          199.6,
+          199.7
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "081_pitted_surface_92.jpg"
+  },
+  {
+    "image": "rolled-in_scale_109.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          70.0,
+          68.0,
+          159.0,
+          198.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          94.0,
+          4.0,
+          115.0,
+          31.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.4206,
+        "xyxy": [
+          68.1,
+          129.8,
+          151.3,
+          199.9
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3857,
+        "xyxy": [
+          79.4,
+          66.7,
+          142.6,
+          118.9
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3062,
+        "xyxy": [
+          82.4,
+          0.1,
+          117.8,
+          33.3
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.303,
+        "xyxy": [
+          6.4,
+          96.7,
+          38.1,
+          152.1
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.282,
+        "xyxy": [
+          70.7,
+          68.8,
+          140.4,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "082_rolled-in_scale_109.jpg"
+  },
+  {
+    "image": "rolled-in_scale_120.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          123.0,
+          39.0,
+          168.0,
+          136.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5402,
+        "xyxy": [
+          126.3,
+          43.5,
+          171.1,
+          102.7
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3272,
+        "xyxy": [
+          176.4,
+          0.2,
+          200.0,
+          27.5
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "083_rolled-in_scale_120.jpg"
+  },
+  {
+    "image": "rolled-in_scale_121.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          151.0,
+          1.0,
+          192.0,
+          37.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "084_rolled-in_scale_121.jpg"
+  },
+  {
+    "image": "rolled-in_scale_130.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          117.0,
+          12.0,
+          146.0,
+          42.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          35.0,
+          129.0,
+          174.0,
+          188.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3556,
+        "xyxy": [
+          38.2,
+          129.3,
+          165.3,
+          197.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3208,
+        "xyxy": [
+          96.7,
+          129.2,
+          164.8,
+          194.2
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.2641,
+        "xyxy": [
+          99.7,
+          0.1,
+          144.5,
+          39.5
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "085_rolled-in_scale_130.jpg"
+  },
+  {
+    "image": "rolled-in_scale_187.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          32.0,
+          22.0,
+          133.0,
+          70.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          75.0,
+          111.0,
+          199.0,
+          196.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.7063,
+        "xyxy": [
+          138.2,
+          79.1,
+          199.9,
+          200.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.594,
+        "xyxy": [
+          65.5,
+          149.2,
+          125.3,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "086_rolled-in_scale_187.jpg"
+  },
+  {
+    "image": "rolled-in_scale_20.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          28.0,
+          104.0,
+          77.0,
+          183.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          107.0,
+          38.0,
+          199.0,
+          194.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          106.0,
+          1.0,
+          150.0,
+          33.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.6167,
+        "xyxy": [
+          112.0,
+          48.9,
+          190.7,
+          197.5
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.4718,
+        "xyxy": [
+          130.1,
+          150.7,
+          193.2,
+          200.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.379,
+        "xyxy": [
+          31.1,
+          101.7,
+          77.0,
+          179.3
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3013,
+        "xyxy": [
+          109.7,
+          0.0,
+          157.4,
+          27.3
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "087_rolled-in_scale_20.jpg"
+  },
+  {
+    "image": "rolled-in_scale_204.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          102.0,
+          60.0,
+          168.0,
+          192.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          18.0,
+          151.0,
+          87.0,
+          197.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3245,
+        "xyxy": [
+          111.3,
+          113.4,
+          163.9,
+          189.2
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "088_rolled-in_scale_204.jpg"
+  },
+  {
+    "image": "rolled-in_scale_225.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          18.0,
+          26.0,
+          106.0,
+          148.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          134.0,
+          47.0,
+          200.0,
+          122.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "089_rolled-in_scale_225.jpg"
+  },
+  {
+    "image": "rolled-in_scale_230.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          14.0,
+          1.0,
+          114.0,
+          134.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          4.0,
+          138.0,
+          129.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5516,
+        "xyxy": [
+          23.8,
+          0.1,
+          109.3,
+          47.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.4443,
+        "xyxy": [
+          16.1,
+          0.2,
+          112.7,
+          102.3
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "090_rolled-in_scale_230.jpg"
+  },
+  {
+    "image": "rolled-in_scale_235.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          14.0,
+          83.0,
+          102.0,
+          159.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          23.0,
+          12.0,
+          111.0,
+          66.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3875,
+        "xyxy": [
+          32.4,
+          5.8,
+          112.9,
+          68.1
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "091_rolled-in_scale_235.jpg"
+  },
+  {
+    "image": "rolled-in_scale_245.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          6.0,
+          80.0,
+          138.0,
+          199.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          32.0,
+          31.0,
+          152.0,
+          106.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3783,
+        "xyxy": [
+          17.0,
+          91.5,
+          150.8,
+          199.6
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "092_rolled-in_scale_245.jpg"
+  },
+  {
+    "image": "rolled-in_scale_25.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          53.0,
+          48.0,
+          106.0,
+          163.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          137.0,
+          127.0,
+          178.0,
+          193.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.4836,
+        "xyxy": [
+          72.0,
+          92.2,
+          106.9,
+          160.7
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3909,
+        "xyxy": [
+          34.4,
+          41.3,
+          97.8,
+          107.2
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3254,
+        "xyxy": [
+          145.3,
+          7.5,
+          181.5,
+          27.2
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.2788,
+        "xyxy": [
+          144.3,
+          0.4,
+          182.1,
+          26.8
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "093_rolled-in_scale_25.jpg"
+  },
+  {
+    "image": "rolled-in_scale_268.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          15.0,
+          117.0,
+          191.0,
+          194.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          25.0,
+          27.0,
+          166.0,
+          158.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3231,
+        "xyxy": [
+          13.8,
+          154.3,
+          129.7,
+          199.9
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.2674,
+        "xyxy": [
+          13.7,
+          11.9,
+          110.4,
+          68.4
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.2505,
+        "xyxy": [
+          17.8,
+          13.0,
+          147.5,
+          119.3
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "094_rolled-in_scale_268.jpg"
+  },
+  {
+    "image": "rolled-in_scale_27.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          81.0,
+          32.0,
+          137.0,
+          104.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "095_rolled-in_scale_27.jpg"
+  },
+  {
+    "image": "rolled-in_scale_274.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          1.0,
+          34.0,
+          123.0,
+          108.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          152.0,
+          129.0,
+          198.0,
+          198.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          32.0,
+          2.0,
+          104.0,
+          52.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          3.0,
+          84.0,
+          114.0,
+          163.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.7677,
+        "xyxy": [
+          151.4,
+          127.9,
+          199.8,
+          200.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5951,
+        "xyxy": [
+          4.1,
+          49.0,
+          120.2,
+          159.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "096_rolled-in_scale_274.jpg"
+  },
+  {
+    "image": "rolled-in_scale_288.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          45.0,
+          13.0,
+          151.0,
+          198.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          59.0,
+          6.0,
+          162.0,
+          92.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5374,
+        "xyxy": [
+          32.2,
+          116.4,
+          149.6,
+          200.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3079,
+        "xyxy": [
+          36.4,
+          23.4,
+          155.0,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "097_rolled-in_scale_288.jpg"
+  },
+  {
+    "image": "rolled-in_scale_295.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          52.0,
+          109.0,
+          167.0,
+          198.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          109.0,
+          1.0,
+          163.0,
+          96.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          32.0,
+          2.0,
+          97.0,
+          106.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.7933,
+        "xyxy": [
+          48.8,
+          125.3,
+          159.9,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "098_rolled-in_scale_295.jpg"
+  },
+  {
+    "image": "rolled-in_scale_297.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          54.0,
+          45.0,
+          126.0,
+          197.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          104.0,
+          96.0,
+          168.0,
+          177.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3002,
+        "xyxy": [
+          55.0,
+          119.3,
+          111.7,
+          200.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.2672,
+        "xyxy": [
+          56.1,
+          78.0,
+          115.1,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "099_rolled-in_scale_297.jpg"
+  },
+  {
+    "image": "rolled-in_scale_31.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          81.0,
+          128.0,
+          151.0,
+          191.0
+        ]
+      }
+    ],
+    "predictions": [],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "100_rolled-in_scale_31.jpg"
+  },
+  {
+    "image": "rolled-in_scale_34.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          43.0,
+          18.0,
+          91.0,
+          70.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.4434,
+        "xyxy": [
+          58.6,
+          60.2,
+          112.0,
+          112.6
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "101_rolled-in_scale_34.jpg"
+  },
+  {
+    "image": "rolled-in_scale_39.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          68.0,
+          96.0,
+          136.0,
+          190.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          57.0,
+          7.0,
+          110.0,
+          52.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          46.0,
+          148.0,
+          156.0,
+          186.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5247,
+        "xyxy": [
+          63.5,
+          91.8,
+          137.4,
+          129.2
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.4255,
+        "xyxy": [
+          56.5,
+          97.4,
+          147.9,
+          184.6
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.2693,
+        "xyxy": [
+          69.4,
+          0.0,
+          112.1,
+          30.2
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "102_rolled-in_scale_39.jpg"
+  },
+  {
+    "image": "rolled-in_scale_4.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          40.0,
+          132.0,
+          138.0,
+          199.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          81.0,
+          1.0,
+          125.0,
+          92.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.6853,
+        "xyxy": [
+          46.9,
+          132.0,
+          141.0,
+          199.9
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "103_rolled-in_scale_4.jpg"
+  },
+  {
+    "image": "rolled-in_scale_45.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          119.0,
+          68.0,
+          170.0,
+          131.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          126.0,
+          144.0,
+          168.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.7224,
+        "xyxy": [
+          121.4,
+          39.9,
+          171.5,
+          200.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5976,
+        "xyxy": [
+          123.4,
+          41.4,
+          170.3,
+          132.3
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5806,
+        "xyxy": [
+          123.7,
+          141.0,
+          170.7,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "104_rolled-in_scale_45.jpg"
+  },
+  {
+    "image": "rolled-in_scale_48.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          133.0,
+          127.0,
+          200.0,
+          197.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          136.0,
+          29.0,
+          175.0,
+          74.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          110.0,
+          62.0,
+          200.0,
+          135.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.6337,
+        "xyxy": [
+          125.2,
+          37.2,
+          200.0,
+          197.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.2878,
+        "xyxy": [
+          64.1,
+          80.3,
+          93.5,
+          122.6
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "105_rolled-in_scale_48.jpg"
+  },
+  {
+    "image": "rolled-in_scale_49.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          14.0,
+          65.0,
+          153.0,
+          123.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          84.0,
+          24.0,
+          119.0,
+          62.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          37.0,
+          125.0,
+          150.0,
+          187.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5676,
+        "xyxy": [
+          73.7,
+          25.4,
+          150.3,
+          189.5
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.254,
+        "xyxy": [
+          75.9,
+          21.7,
+          146.1,
+          125.8
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "106_rolled-in_scale_49.jpg"
+  },
+  {
+    "image": "rolled-in_scale_57.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          29.0,
+          145.0,
+          196.0,
+          194.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          46.0,
+          42.0,
+          83.0,
+          126.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5852,
+        "xyxy": [
+          54.2,
+          42.4,
+          81.6,
+          126.6
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.2667,
+        "xyxy": [
+          113.7,
+          158.0,
+          199.5,
+          192.8
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "107_rolled-in_scale_57.jpg"
+  },
+  {
+    "image": "rolled-in_scale_65.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          48.0,
+          1.0,
+          157.0,
+          67.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          46.0,
+          88.0,
+          132.0,
+          150.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5958,
+        "xyxy": [
+          51.8,
+          88.1,
+          127.6,
+          142.7
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5785,
+        "xyxy": [
+          52.9,
+          0.0,
+          157.4,
+          67.7
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.2828,
+        "xyxy": [
+          53.4,
+          0.1,
+          162.4,
+          134.4
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.2558,
+        "xyxy": [
+          113.6,
+          0.5,
+          167.3,
+          76.5
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "108_rolled-in_scale_65.jpg"
+  },
+  {
+    "image": "rolled-in_scale_91.jpg",
+    "ground_truth": [
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          3.0,
+          111.0,
+          120.0,
+          187.0
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "xyxy": [
+          26.0,
+          1.0,
+          138.0,
+          31.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.733,
+        "xyxy": [
+          3.2,
+          127.2,
+          88.6,
+          187.2
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.5222,
+        "xyxy": [
+          2.9,
+          122.0,
+          115.3,
+          186.4
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3813,
+        "xyxy": [
+          20.5,
+          0.0,
+          104.2,
+          18.4
+        ]
+      },
+      {
+        "class": "rolled-in_scale",
+        "confidence": 0.3072,
+        "xyxy": [
+          18.7,
+          0.1,
+          143.6,
+          22.3
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "109_rolled-in_scale_91.jpg"
+  },
+  {
+    "image": "scratches_111.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          50.0,
+          1.0,
+          95.0,
+          199.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          18.0,
+          1.0,
+          29.0,
+          27.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          144.0,
+          1.0,
+          161.0,
+          71.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          170.0,
+          1.0,
+          187.0,
+          39.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.7617,
+        "xyxy": [
+          50.3,
+          0.0,
+          95.2,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.748,
+        "xyxy": [
+          141.5,
+          0.1,
+          161.7,
+          72.2
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.6841,
+        "xyxy": [
+          68.6,
+          0.9,
+          96.7,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4836,
+        "xyxy": [
+          16.0,
+          0.0,
+          29.8,
+          40.5
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.4187,
+        "xyxy": [
+          167.0,
+          0.2,
+          187.1,
+          43.2
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.3763,
+        "xyxy": [
+          49.4,
+          2.0,
+          71.0,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "confidence": 0.3436,
+        "xyxy": [
+          167.5,
+          0.4,
+          180.8,
+          44.4
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "110_scratches_111.jpg"
+  },
+  {
+    "image": "scratches_12.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          20.0,
+          61.0,
+          35.0,
+          185.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          23.0,
+          1.0,
+          36.0,
+          46.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.5182,
+        "xyxy": [
+          22.0,
+          60.1,
+          35.4,
+          184.7
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4865,
+        "xyxy": [
+          24.4,
+          0.3,
+          36.3,
+          48.5
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4291,
+        "xyxy": [
+          0.0,
+          0.1,
+          9.4,
+          52.8
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4123,
+        "xyxy": [
+          0.0,
+          0.0,
+          7.4,
+          61.9
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4114,
+        "xyxy": [
+          23.4,
+          107.1,
+          34.7,
+          181.6
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.3723,
+        "xyxy": [
+          21.3,
+          16.7,
+          35.2,
+          183.6
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "111_scratches_12.jpg"
+  },
+  {
+    "image": "scratches_151.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          15.0,
+          113.0,
+          31.0,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          97.0,
+          1.0,
+          124.0,
+          199.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.8863,
+        "xyxy": [
+          97.7,
+          5.2,
+          123.3,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.5637,
+        "xyxy": [
+          14.6,
+          115.7,
+          28.9,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4427,
+        "xyxy": [
+          129.7,
+          16.9,
+          140.5,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "112_scratches_151.jpg"
+  },
+  {
+    "image": "scratches_165.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          61.0,
+          1.0,
+          97.0,
+          166.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          109.0,
+          1.0,
+          129.0,
+          198.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.8973,
+        "xyxy": [
+          60.0,
+          0.6,
+          97.1,
+          186.6
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.7584,
+        "xyxy": [
+          110.3,
+          2.0,
+          130.6,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.328,
+        "xyxy": [
+          115.6,
+          0.0,
+          131.4,
+          190.9
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.2781,
+        "xyxy": [
+          106.0,
+          20.2,
+          128.3,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "113_scratches_165.jpg"
+  },
+  {
+    "image": "scratches_186.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          18.0,
+          1.0,
+          50.0,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          142.0,
+          86.0,
+          186.0,
+          143.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          154.0,
+          1.0,
+          179.0,
+          176.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.8935,
+        "xyxy": [
+          18.8,
+          0.0,
+          49.8,
+          197.8
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.503,
+        "xyxy": [
+          141.7,
+          93.9,
+          189.4,
+          147.5
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.2836,
+        "xyxy": [
+          141.8,
+          92.9,
+          189.1,
+          195.7
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "114_scratches_186.jpg"
+  },
+  {
+    "image": "scratches_191.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          21.0,
+          1.0,
+          45.0,
+          200.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.7799,
+        "xyxy": [
+          21.2,
+          0.3,
+          45.4,
+          196.5
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.5545,
+        "xyxy": [
+          109.5,
+          68.3,
+          131.9,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "115_scratches_191.jpg"
+  },
+  {
+    "image": "scratches_196.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          24.0,
+          1.0,
+          37.0,
+          200.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.6923,
+        "xyxy": [
+          22.0,
+          1.9,
+          38.5,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4168,
+        "xyxy": [
+          104.3,
+          152.3,
+          116.6,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4031,
+        "xyxy": [
+          86.3,
+          67.9,
+          99.8,
+          146.8
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "116_scratches_196.jpg"
+  },
+  {
+    "image": "scratches_203.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          64.0,
+          2.0,
+          77.0,
+          200.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.7466,
+        "xyxy": [
+          64.0,
+          2.9,
+          79.2,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.3581,
+        "xyxy": [
+          98.5,
+          57.0,
+          107.8,
+          139.2
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.2745,
+        "xyxy": [
+          191.9,
+          44.2,
+          200.0,
+          198.1
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "117_scratches_203.jpg"
+  },
+  {
+    "image": "scratches_220.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          141.0,
+          1.0,
+          165.0,
+          116.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          105.0,
+          1.0,
+          135.0,
+          112.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          79.0,
+          16.0,
+          93.0,
+          193.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.6813,
+        "xyxy": [
+          138.3,
+          1.3,
+          162.1,
+          115.8
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.6706,
+        "xyxy": [
+          105.9,
+          0.2,
+          128.4,
+          113.2
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.5117,
+        "xyxy": [
+          79.8,
+          3.1,
+          93.2,
+          182.9
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4162,
+        "xyxy": [
+          171.3,
+          0.0,
+          183.5,
+          50.8
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "118_scratches_220.jpg"
+  },
+  {
+    "image": "scratches_221.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          17.0,
+          1.0,
+          47.0,
+          144.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          156.0,
+          31.0,
+          174.0,
+          180.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          85.0,
+          1.0,
+          110.0,
+          148.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.7474,
+        "xyxy": [
+          19.2,
+          0.3,
+          42.0,
+          141.5
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.6364,
+        "xyxy": [
+          154.9,
+          6.7,
+          177.3,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.5651,
+        "xyxy": [
+          82.9,
+          0.0,
+          108.3,
+          143.9
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.5133,
+        "xyxy": [
+          52.5,
+          0.4,
+          64.7,
+          77.6
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4323,
+        "xyxy": [
+          94.0,
+          159.8,
+          110.2,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4059,
+        "xyxy": [
+          0.0,
+          0.4,
+          10.6,
+          132.3
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.2893,
+        "xyxy": [
+          94.1,
+          0.0,
+          112.9,
+          67.1
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.2578,
+        "xyxy": [
+          87.3,
+          0.2,
+          113.5,
+          69.9
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "119_scratches_221.jpg"
+  },
+  {
+    "image": "scratches_224.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          40.0,
+          27.0,
+          55.0,
+          172.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          134.0,
+          37.0,
+          145.0,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          105.0,
+          58.0,
+          117.0,
+          199.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          99.0,
+          1.0,
+          123.0,
+          66.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.7346,
+        "xyxy": [
+          39.8,
+          23.0,
+          57.0,
+          161.9
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.6342,
+        "xyxy": [
+          132.3,
+          68.8,
+          148.7,
+          199.8
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4838,
+        "xyxy": [
+          97.9,
+          56.9,
+          118.9,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fn"
+    ],
+    "case_file": "120_scratches_224.jpg"
+  },
+  {
+    "image": "scratches_227.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          74.0,
+          33.0,
+          100.0,
+          200.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.7382,
+        "xyxy": [
+          70.5,
+          33.7,
+          99.2,
+          198.3
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.5944,
+        "xyxy": [
+          0.0,
+          0.0,
+          10.9,
+          196.3
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4018,
+        "xyxy": [
+          141.5,
+          0.8,
+          184.9,
+          83.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.2672,
+        "xyxy": [
+          0.0,
+          33.1,
+          9.3,
+          197.8
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "121_scratches_227.jpg"
+  },
+  {
+    "image": "scratches_229.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          71.0,
+          55.0,
+          87.0,
+          200.0
+        ]
+      },
+      {
+        "class": "inclusion",
+        "xyxy": [
+          95.0,
+          1.0,
+          114.0,
+          41.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.6478,
+        "xyxy": [
+          70.9,
+          50.8,
+          88.6,
+          199.6
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4342,
+        "xyxy": [
+          70.8,
+          52.2,
+          87.8,
+          156.9
+        ]
+      }
+    ],
+    "errors": [
+      "fn",
+      "fp"
+    ],
+    "case_file": "122_scratches_229.jpg"
+  },
+  {
+    "image": "scratches_25.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          35.0,
+          1.0,
+          97.0,
+          198.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          112.0,
+          5.0,
+          151.0,
+          198.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.698,
+        "xyxy": [
+          118.1,
+          3.0,
+          154.3,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.5289,
+        "xyxy": [
+          35.4,
+          7.1,
+          96.4,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4906,
+        "xyxy": [
+          0.0,
+          6.1,
+          9.0,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.439,
+        "xyxy": [
+          129.6,
+          5.3,
+          154.4,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.3206,
+        "xyxy": [
+          106.8,
+          37.9,
+          129.8,
+          70.3
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.2611,
+        "xyxy": [
+          115.4,
+          52.7,
+          152.0,
+          199.4
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "123_scratches_25.jpg"
+  },
+  {
+    "image": "scratches_263.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          1.0,
+          25.0,
+          198.0,
+          50.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          1.0,
+          71.0,
+          171.0,
+          87.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.8571,
+        "xyxy": [
+          0.0,
+          19.0,
+          198.8,
+          51.9
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.6053,
+        "xyxy": [
+          0.4,
+          71.6,
+          185.0,
+          89.3
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.3082,
+        "xyxy": [
+          2.3,
+          188.7,
+          167.8,
+          199.9
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "124_scratches_263.jpg"
+  },
+  {
+    "image": "scratches_272.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          64.0,
+          41.0,
+          199.0,
+          68.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          24.0,
+          82.0,
+          199.0,
+          115.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.6569,
+        "xyxy": [
+          42.5,
+          41.1,
+          200.0,
+          69.7
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.5867,
+        "xyxy": [
+          66.5,
+          33.2,
+          200.0,
+          69.7
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4837,
+        "xyxy": [
+          22.7,
+          94.8,
+          200.0,
+          114.6
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.2847,
+        "xyxy": [
+          26.9,
+          79.6,
+          198.9,
+          112.7
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.2576,
+        "xyxy": [
+          1.4,
+          190.5,
+          148.5,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "125_scratches_272.jpg"
+  },
+  {
+    "image": "scratches_273.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          1.0,
+          18.0,
+          199.0,
+          62.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          44.0,
+          134.0,
+          199.0,
+          166.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "xyxy": [
+          1.0,
+          182.0,
+          199.0,
+          198.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.8021,
+        "xyxy": [
+          0.0,
+          176.0,
+          190.0,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.7859,
+        "xyxy": [
+          12.7,
+          133.8,
+          199.6,
+          167.4
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.6,
+        "xyxy": [
+          7.1,
+          20.5,
+          200.0,
+          41.2
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.5572,
+        "xyxy": [
+          0.0,
+          136.0,
+          197.4,
+          160.5
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4376,
+        "xyxy": [
+          7.1,
+          15.6,
+          200.0,
+          37.9
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.4168,
+        "xyxy": [
+          0.0,
+          0.0,
+          126.2,
+          9.5
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.3165,
+        "xyxy": [
+          3.5,
+          183.9,
+          200.0,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.3026,
+        "xyxy": [
+          1.9,
+          21.7,
+          191.3,
+          48.3
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "126_scratches_273.jpg"
+  },
+  {
+    "image": "scratches_53.jpg",
+    "ground_truth": [
+      {
+        "class": "scratches",
+        "xyxy": [
+          144.0,
+          1.0,
+          184.0,
+          198.0
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class": "scratches",
+        "confidence": 0.8379,
+        "xyxy": [
+          159.0,
+          2.9,
+          186.5,
+          200.0
+        ]
+      },
+      {
+        "class": "scratches",
+        "confidence": 0.2672,
+        "xyxy": [
+          147.3,
+          22.1,
+          185.4,
+          200.0
+        ]
+      }
+    ],
+    "errors": [
+      "fp"
+    ],
+    "case_file": "127_scratches_53.jpg"
+  }
+]

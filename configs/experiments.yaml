@@ -1,0 +1,19 @@
+seed: 42
+baseline:
+  model: yolo11n.pt
+  imgsz: 320
+  epochs: 60
+  batch: 8
+  device: mps
+resolution_ablation: [320, 416, 640]
+model_ablation: [yolo11n.pt, yolo11s.pt]
+augmentation:
+  default: {}
+  conservative:
+    hsv_h: 0.0
+    hsv_s: 0.12
+    hsv_v: 0.15
+    degrees: 0.0
+    translate: 0.03
+    scale: 0.15
+    fliplr: 0.0

@@ -1,0 +1,17 @@
+{
+  "counts": {
+    "train": {
+      "images": 1440,
+      "objects": 3337
+    },
+    "val": {
+      "images": 180,
+      "objects": 421
+    },
+    "test": {
+      "images": 180,
+      "objects": 431
+    }
+  },
+  "issues": []
+}

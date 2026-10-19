@@ -1,0 +1,9 @@
+{
+  "python": "3.11.17 (main, Oct  1 2026, 20:09:52) [Clang 20.1.8 ]",
+  "machine": "arm64",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "free_disk_gib": 25.34,
+  "torch": "2.14.1",
+  "mps_available": true,
+  "git_commit": null
+}

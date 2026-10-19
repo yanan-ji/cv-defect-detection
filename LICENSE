@@ -1,0 +1,47 @@
+MIT License
+
+Copyright (c) 2026 yanan-ji
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Scope note
+
+This MIT license covers the original material in this repository: the Python
+scripts under `scripts/` and `src/`, the configuration files under `configs/`,
+the tests under `tests/`, and the written reports under `reports/`.
+
+It does NOT cover the following third-party material, which is governed by its
+own licenses and is NOT redistributed in this repository:
+
+* **Ultralytics YOLO11** — used as a dependency via its Python API.
+  Ultralytics is licensed under AGPL-3.0, with a commercial license available
+  from Ultralytics for closed-source use. Users who distribute this project as
+  part of a larger work must satisfy the AGPL-3.0 obligations that apply to the
+  Ultralytics dependency. See https://github.com/ultralytics/ultralytics
+  and https://www.ultralytics.com/license.
+* **NEU-DET dataset** — not redistributed here. Users must obtain it
+  separately under the terms published by its authors. See `README.md`.
+* **COCO8 sample dataset** (`datasets/coco8/`) — a smoke-test subset
+  distributed by Ultralytics and derived from COCO. Its own LICENSE file is
+  retained in that directory.
+
+Model weights (`*.pt`, `*.onnx`) are excluded from this repository via
+`.gitignore` and are not covered by this license.

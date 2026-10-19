@@ -1,0 +1,68 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---------- 测试 / 静态检查缓存 ----------
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---------- macOS ----------
+.DS_Store
+.AppleDouble
+._*
+
+# ---------- 数据集 ----------
+# NEU-DET 原始与处理后的图像/标注不随仓库发布，
+# 复现者需自行取得合法授权的数据。划分清单 split_manifest.json 保留。
+data/raw/
+data/neu_det/images/
+data/neu_det/labels/
+*.zip
+*.rar
+*.7z
+
+# ---------- 模型权重与导出产物 ----------
+*.pt
+*.pth
+*.onnx
+*.torchscript
+*.engine
+*.mlpackage/
+*.tflite
+experiments/*/weights/
+
+# ---------- 训练缓存 ----------
+*.cache
+runs/
+ultralytics/
+
+# ---------- 训练与评估原始日志 ----------
+# 含本机绝对路径；指标已由 results.csv 与 reports/*.json 固化。
+*.train.log
+*launch.log
+reports/*.log
+
+# ---------- 批量可视化快照 ----------
+# Ultralytics 每次训练自动导出的 batch 拼图，体积大且重复；
+# 精选样本与错误案例见 reports/figures/ 与 reports/baseline_error_analysis/。
+experiments/*/train_batch*.jpg
+experiments/*/val_batch*.jpg
+
+# ---------- 凭据与本地环境 ----------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+kaggle.json
+secrets/
+
+# ---------- 编辑器 ----------
+.idea/
+.vscode/

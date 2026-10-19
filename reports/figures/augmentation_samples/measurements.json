@@ -1,0 +1,107 @@
+{
+  "source": "data/neu_det/images/train/crazing_1.jpg",
+  "training_operators": [
+    "RandomHSV",
+    "RandomPerspective",
+    "RandomFlip"
+  ],
+  "note": "Isolated operators on one training image; full training also includes mosaic.",
+  "original": {
+    "gray_pixel_fraction": 1.0,
+    "mean_intensity": 160.64,
+    "mean_absolute_pixel_change": 0.0,
+    "num_boxes": 1,
+    "boxes_xyxy": [
+      [
+        2.0,
+        2.0,
+        193.0,
+        194.0
+      ]
+    ]
+  },
+  "hsv_baseline": {
+    "gray_pixel_fraction": 1.0,
+    "mean_intensity": 189.44,
+    "mean_absolute_pixel_change": 28.8,
+    "num_boxes": 1,
+    "boxes_xyxy": [
+      [
+        2.0,
+        2.0,
+        193.0,
+        194.0
+      ]
+    ]
+  },
+  "hsv_conservative": {
+    "gray_pixel_fraction": 1.0,
+    "mean_intensity": 143.56,
+    "mean_absolute_pixel_change": 17.07,
+    "num_boxes": 1,
+    "boxes_xyxy": [
+      [
+        2.0,
+        2.0,
+        193.0,
+        194.0
+      ]
+    ]
+  },
+  "geometry_baseline": {
+    "gray_pixel_fraction": 1.0,
+    "mean_intensity": 138.43,
+    "mean_absolute_pixel_change": 38.81,
+    "num_boxes": 1,
+    "boxes_xyxy": [
+      [
+        44.79999923706055,
+        12.600000381469727,
+        182.89999389648438,
+        151.5
+      ]
+    ]
+  },
+  "geometry_conservative": {
+    "gray_pixel_fraction": 1.0,
+    "mean_intensity": 160.54,
+    "mean_absolute_pixel_change": 17.28,
+    "num_boxes": 1,
+    "boxes_xyxy": [
+      [
+        3.5999999046325684,
+        2.4000000953674316,
+        194.89999389648438,
+        194.6999969482422
+      ]
+    ]
+  },
+  "flip_baseline_forced": {
+    "gray_pixel_fraction": 1.0,
+    "mean_intensity": 160.64,
+    "mean_absolute_pixel_change": 35.48,
+    "num_boxes": 1,
+    "boxes_xyxy": [
+      [
+        7.0,
+        2.0,
+        198.0,
+        194.0
+      ]
+    ]
+  },
+  "flip_conservative": {
+    "gray_pixel_fraction": 1.0,
+    "mean_intensity": 160.64,
+    "mean_absolute_pixel_change": 0.0,
+    "num_boxes": 1,
+    "boxes_xyxy": [
+      [
+        2.0,
+        2.0,
+        193.0,
+        194.0
+      ]
+    ]
+  }
+}

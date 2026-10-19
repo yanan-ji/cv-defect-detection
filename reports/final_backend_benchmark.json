@@ -1,0 +1,53 @@
+{
+  "host": "macOS-26.6.2-arm64-arm-64bit",
+  "processor": "arm",
+  "torch": "2.14.1",
+  "onnxruntime": "1.31.0",
+  "image": "data/neu_det/images/val/crazing_109.jpg",
+  "imgsz": 320,
+  "measurement": "wall-clock preprocess + model + Ultralytics NMS + box scaling, batch=1, same image; MPS synchronized before CPU transfer",
+  "results": [
+    {
+      "backend": "PyTorch MPS",
+      "batch": 1,
+      "warmup": 10,
+      "runs": 100,
+      "mean_ms": 10.278386219288222,
+      "p95_ms": 12.743502102966886,
+      "median_ms": 10.169895998842549,
+      "min_ms": 8.322624998982064,
+      "max_ms": 13.96554199163802
+    },
+    {
+      "backend": "ONNX Runtime CPUExecutionProvider",
+      "batch": 1,
+      "warmup": 10,
+      "runs": 100,
+      "mean_ms": 5.866118749981979,
+      "p95_ms": 7.2998892472242005,
+      "median_ms": 5.593207992205862,
+      "min_ms": 4.743959012557752,
+      "max_ms": 9.06599999871105,
+      "session_providers": [
+        "CPUExecutionProvider"
+      ],
+      "provider_warning": null
+    },
+    {
+      "backend": "ONNX Runtime CoreMLExecutionProvider",
+      "batch": 1,
+      "warmup": 10,
+      "runs": 100,
+      "mean_ms": 2.4367908197746146,
+      "p95_ms": 3.1025020514789503,
+      "median_ms": 2.351187496969942,
+      "min_ms": 2.05462500161957,
+      "max_ms": 3.4197499917354435,
+      "session_providers": [
+        "CoreMLExecutionProvider",
+        "CPUExecutionProvider"
+      ],
+      "provider_warning": "CoreML may partition unsupported ops to CPU; provider list does not prove full graph acceleration"
+    }
+  ]
+}

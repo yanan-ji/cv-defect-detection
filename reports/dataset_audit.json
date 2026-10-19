@@ -1,0 +1,69 @@
+{
+  "dataset_hashes": {
+    "split_manifest.json": "c690a55ac461e52cfb15c2f7a1bf084475cd646eef7a94ed627bb8c33fc13e67",
+    "neu_det.yaml": "168c85286e459f567d229f802402278716f48d07ec7627a3c55536fed239e198"
+  },
+  "split_counts": {
+    "train": {
+      "images": 1440,
+      "images_per_class": {
+        "crazing": 240,
+        "patches": 273,
+        "inclusion": 302,
+        "pitted_surface": 241,
+        "rolled-in_scale": 240,
+        "scratches": 240
+      },
+      "instances_per_class": {
+        "crazing": 563,
+        "patches": 697,
+        "inclusion": 792,
+        "pitted_surface": 344,
+        "rolled-in_scale": 494,
+        "scratches": 447
+      }
+    },
+    "val": {
+      "images": 180,
+      "images_per_class": {
+        "crazing": 30,
+        "patches": 34,
+        "inclusion": 38,
+        "pitted_surface": 30,
+        "rolled-in_scale": 30,
+        "scratches": 30
+      },
+      "instances_per_class": {
+        "crazing": 61,
+        "patches": 93,
+        "inclusion": 112,
+        "pitted_surface": 41,
+        "rolled-in_scale": 62,
+        "scratches": 52
+      }
+    },
+    "test": {
+      "images": 180,
+      "images_per_class": {
+        "crazing": 30,
+        "patches": 35,
+        "inclusion": 42,
+        "pitted_surface": 30,
+        "rolled-in_scale": 30,
+        "scratches": 30
+      },
+      "instances_per_class": {
+        "crazing": 65,
+        "patches": 91,
+        "inclusion": 107,
+        "pitted_surface": 47,
+        "rolled-in_scale": 72,
+        "scratches": 49
+      }
+    }
+  },
+  "invalid_or_missing": [],
+  "cross_split_exact_duplicates": [],
+  "cross_split_near_duplicates_phash_hamming_le_4": [],
+  "method": "SHA-256 exact duplicate detection; 64-bit DCT perceptual hash threshold <=4 across different splits."
+}
